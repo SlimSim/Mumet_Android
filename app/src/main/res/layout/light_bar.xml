@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/lightBarList"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <View
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:id="@+id/space0"
+        android:layout_weight="1" >
+    </View>
+    <View android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/light0"
+        android:background="@drawable/light_off"/>
+
+    <View
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:id="@+id/space1"
+        android:layout_weight="1" >
+    </View>
+    <View android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/light1"
+        android:background="@drawable/light_off"/>
+    <View
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:id="@+id/space2"
+        android:layout_weight="1" >
+    </View>
+    <View android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/light2"
+        android:background="@drawable/light_off"/>
+    <View
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:id="@+id/space3"
+        android:layout_weight="1" >
+    </View>
+    <View android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/light3"
+        android:background="@drawable/light_off"/>
+
+    <View
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:id="@+id/space4"
+        android:visibility="gone"
+        android:layout_weight="1" >
+    </View>
+    <View android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/light4"
+        android:visibility="gone"
+        android:background="@drawable/light_off"/>
+    <View
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:id="@+id/space5"
+        android:visibility="gone"
+        android:layout_weight="1" >
+    </View>
+    <View android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/light5"
+        android:visibility="gone"
+        android:background="@drawable/light_off"/>
+    <View
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:id="@+id/space6"
+        android:visibility="gone"
+        android:layout_weight="1" >
+    </View>
+    <View android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:visibility="gone"
+        android:id="@+id/light6"
+        android:background="@drawable/light_off"/>
+    <View
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:id="@+id/space7"
+        android:visibility="gone"
+        android:layout_weight="1" >
+    </View>
+    <View android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:visibility="gone"
+        android:id="@+id/light7"
+        android:background="@drawable/light_off"/>
+    <View
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:layout_weight="1" >
+    </View>
+
+
+</LinearLayout>

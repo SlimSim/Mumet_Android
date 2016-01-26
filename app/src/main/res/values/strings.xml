@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name_long">Mumet - Multi metronome tempo</string>
+    <string name="app_name">Mumet</string>
+    <string name="app_name_short">Mumet</string>
+    <string name="songName">Song name</string>
+    <string name="addSong">Add song</string>
+    <string name="editSong">Edit song</string>
+    <string name="cancel">Cancel</string>
+    <string name="Stop">Stop</string>
+    <string name="newSong">New Song</string>
+    <string name="current">current:</string>
+    <string name="noTempo">-</string>
+    <string name="delete">Delete</string>
+    <string name="autoStopColon">Auto Stop:</string>
+    <string name="autoStop">Auto Stop</string>
+    <string name="editInstructions">Long click the \'Select\' button to edit that song</string>
+    <string name="no">No</string>
+    <string name="bpm">BPM:</string>
+    <string name="saveSong">Save Song</string>
+    <string name="autoStopInstruction">Nr of bars before stop</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+    <string name="time">Time:</string>
+    <string name="select">Select</string>
+    <string name="intEight">8</string>
+    <string name="timeSignature">Beats</string>
+</resources>
